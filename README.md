@@ -2,7 +2,7 @@
 
 **Full-stack engineer who ships and runs what he builds.** I design products end to end — data model, API, offline-first UI, and the pipeline that puts it in production on Cloudflare or a Linux box I operate myself.
 
-Based in Lebanon · building for clinics, shops, salons, ISPs and utilities · open to interesting collaborations.
+Building for clinics, shops, salons, ISPs and utilities.
 
 ---
 
@@ -52,7 +52,6 @@ I treat deployment as part of the product, not an afterthought.
 
 - 🦷 [dental.elalitareq.com](https://dental.elalitareq.com) — clinic management demo (offline-first, multilingual)
 - 💈 [salon.elalitareq.com](https://salon.elalitareq.com) — salon booking and management demo, six switchable designs
-- 🛒 [supermarket.elalitareq.com](https://supermarket.elalitareq.com) — stock and sales system, self-hosted
 
 ## How I work
 
@@ -60,10 +59,6 @@ I treat deployment as part of the product, not an afterthought.
 - Small, verifiable changes: tests and e2e before merge, deploy scripts that can roll back
 - Documentation written for the next person (handover docs, setup guides, architecture notes)
 - Heavy use of AI-assisted workflows (Claude Code) with parallel agents, always behind review and tests
-
-## Open source
-
-[`js-tls-fetcher`](https://github.com/Elalitareq/js-tls-fetcher) — Go-powered TLS fetcher packaged for Node.
 
 ---
 
