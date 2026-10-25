@@ -7,6 +7,7 @@
 ## What I do
 
 - **Automation & notifications:** workflow automation with n8n and webhooks; reminders, order alerts and billing notifications over WhatsApp, Telegram and push, with fallbacks
+- **WhatsApp & AI agents:** conversational flows on the WhatsApp APIs, with multiple AI agents handling client chats and handing over to humans
 - **Multi-service systems:** small services spread across several servers, edge and self-managed Linux side by side, multi-tenant data isolation
 - **Reliable business software:** offline-first apps, idempotent and atomic operations, audit trails, tested backups
 - **Multilingual products:** English / French / Arabic with proper RTL
