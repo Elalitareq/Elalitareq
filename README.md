@@ -2,18 +2,14 @@
 
 **Full-stack engineer who ships and operates the products I build.** I design products end to end — data model, API, offline-first UI, and the pipeline that puts it in production on Cloudflare or a Linux box I operate myself.
 
-Building for clinics, shops, salons, ISPs and utilities.
-
 ---
 
-## What I build
+## What I do
 
-| Area | Things I've shipped |
-|---|---|
-| **Business software** | Dental clinic management (offline-first PWA + Electron desktop, en/fr/ar with RTL), supermarket stock & POS, salon booking, medical-sales ERP, retail ERP platform with tax and invoicing |
-| **Billing & operations** | Electric-generator subscription billing with invoicing, printing and PWA install; ISP/customer management with headless-browser balance scraping |
-| **E-commerce** | Multi-tenant storefront + admin on Cloudflare, SEO-driven Lebanese storefront, coffee-shop ordering app |
-| **Systems & tooling** | Rust browser-engine experiments, a Go TLS-fingerprint fetcher packaged for npm, crypto backtesting and strategy research in Python |
+- **Automation & notifications:** workflow automation with n8n and webhooks; reminders, order alerts and billing notifications over WhatsApp, Telegram and push, with fallbacks
+- **Multi-service systems:** small services spread across several servers, edge and self-managed Linux side by side, multi-tenant data isolation
+- **Reliable business software:** offline-first apps, idempotent and atomic operations, audit trails, tested backups
+- **Multilingual products:** English / French / Arabic with proper RTL
 
 ## DevOps & delivery
 
@@ -48,11 +44,6 @@ I treat deployment as part of the product, not an afterthought.
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?logo=playwright&logoColor=white)
 
-## Live work
-
-- 🦷 [dental.elalitareq.com](https://dental.elalitareq.com) — clinic management demo (offline-first, multilingual)
-- 💈 [salon.elalitareq.com](https://salon.elalitareq.com) — salon booking and management demo, six switchable designs
-
 ## How I work
 
 - Offline-first and multilingual (English / French / Arabic, RTL) by default
@@ -62,4 +53,4 @@ I treat deployment as part of the product, not an afterthought.
 
 ---
 
-Most of my client and product code lives in private repositories; happy to walk through any of it on a call.
+Client and employer work stays private. Details of how I work: [elalitareq.com/en/engineering](https://elalitareq.com/en/engineering/)
