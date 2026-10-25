@@ -1,6 +1,6 @@
 # Hi, I'm Tareq El-Ali 👋
 
-**Full-stack engineer who ships and runs what he builds.** I design products end to end — data model, API, offline-first UI, and the pipeline that puts it in production on Cloudflare or a Linux box I operate myself.
+**Full-stack engineer who ships and operates the products I build.** I design products end to end — data model, API, offline-first UI, and the pipeline that puts it in production on Cloudflare or a Linux box I operate myself.
 
 Building for clinics, shops, salons, ISPs and utilities.
 
